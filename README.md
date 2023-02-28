@@ -8,6 +8,9 @@ and Angular among other tools and in permanent learning. Additionally, I have a 
 in No Country as a Junior Advanced developer. I am fluent in English and have a great interest in astronomy,
 aquarism and meditation.
 
+In my free time, I enjoy creating personal projects using the skills and knowledge that I have acquired over time. You can see some of my projects on my GitHub profile.
+
+If you are interested in collaborating or just want to say hello, do not hesitate to contact me. I am always looking for new opportunities and challenges!
 
 
 - 🔭 I’m currently working on [Elidelmar v2.1](https://elidelmartp2.netlify.app/)
