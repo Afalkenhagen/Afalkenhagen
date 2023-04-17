@@ -13,7 +13,7 @@ In my free time, I enjoy creating personal projects using the skills and knowled
 If you are interested in collaborating or just want to say hello, do not hesitate to contact me. I am always looking for new opportunities and challenges!
 
 
-- 🔭 I’m currently working on [My portfolio v1.1](https://afalkenhagen.netlify.app/)
+- 🔭 I’m currently working on [MasoterapiaOli](https://masoterapiaoli.netlify.app/)
 
 - 🌱 I’m currently learning **React and Vue**
 
