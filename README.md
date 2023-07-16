@@ -13,9 +13,9 @@ In my free time, I enjoy creating personal projects using the skills and knowled
 If you are interested in collaborating or just want to say hello, do not hesitate to contact me. I am always looking for new opportunities and challenges!
 
 
-- 🔭 I’m currently working on [MasoterapiaOli](https://masoterapiaoli.netlify.app/)
+- 🔭 I’m currently working on [NintenBoot](https://nintenboot.netlify.app/)
 
-- 🌱 I’m currently learning **React and Vue**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on [Another No country proyect](https://www.nocountry.tech/)
 
