@@ -13,13 +13,13 @@ In my free time, I enjoy creating personal projects using the skills and knowled
 If you are interested in collaborating or just want to say hello, do not hesitate to contact me. I am always looking for new opportunities and challenges!
 
 
-- 🔭 I’m currently working on [NintenBoot](https://nintenboot.netlify.app/)
+- 🔭 I’m currently working on [MeliClon]((https://github.com/No-Country/s10-01-n-java-angular-mercadolibre))
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👯 I’m looking to collaborate on [Another No country proyect](https://www.nocountry.tech/)
+- 👯 I’m looking to collaborate on [Another No country proyect](https://github.com/No-Country)
 
-- 👨‍💻 All of my projects are available at [In my resume CV](In my resume CV)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://afalkenhagen.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ajfalkenhagen/](https://www.linkedin.com/in/ajfalkenhagen/)
 
